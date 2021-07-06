@@ -15,7 +15,7 @@ colo=[IATA location identifier](https://en.wikipedia.org/wiki/IATA_airport_code)
 http=[HTTP Version](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)<br>
 loc=[Country Code](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)<br>
 tls=[TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) or SSL Version<br>
-sni=[SNI](https://en.wikipedia.org/wiki/Server_Name_Indication) encrypted or plaintext<br>
+sni=Whether [SNI](https://en.wikipedia.org/wiki/Server_Name_Indication) encrypted or plaintext<br>
 warp=Whether over [Cloudflares Wireguard VPN](https://1.1.1.1/)<br>
 gateway=Whether over [Cloudflare Gateway](https://www.cloudflare.com/teams/gateway/)<br>
 
