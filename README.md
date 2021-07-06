@@ -8,7 +8,7 @@ https://cloudflare.com/cdn-cgi/trace
 > fl=Cloudflare WebServer Instance<br>
 h=WebServer [Hostname](https://en.wikipedia.org/wiki/Hostname)<br>
 ip=IP Address of client<br>
-ts=[Epoch Time](https://en.wikipedia.org/wiki/Unix_time) in seconds.millis (`date +%s.%3N`)<br>
+ts=[Epoch Time](https://en.wikipedia.org/wiki/Unix_time) in seconds.millis (Similar to `date +%s.%3N` in bash)<br>
 visit_scheme=https or http<br>
 uag=[User Agent](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent)<br>
 colo=[IATA location identifier](https://en.wikipedia.org/wiki/IATA_airport_code)<br>
