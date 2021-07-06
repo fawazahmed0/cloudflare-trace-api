@@ -5,7 +5,7 @@ Get IP Address, TimeStamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL
 https://cloudflare.com/cdn-cgi/trace
 
 #### Return Format:
-> fl=[Cloudflare WebServer Instance](https://community.cloudflare.com/t/what-does-the-fl-field-in-cdn-cgi-trace-represent/150595)<br>
+> fl=Cloudflare WebServer Instance<br>
 h=WebServer [Hostname](https://en.wikipedia.org/wiki/Hostname)<br>
 ip=IP Address of client<br>
 ts=[Epoch Time](https://en.wikipedia.org/wiki/Unix_time) in seconds.millis (`date +%s.%3N`)<br>
