@@ -19,5 +19,5 @@ sni=Whether [SNI](https://en.wikipedia.org/wiki/Server_Name_Indication) encrypte
 warp=Whether client over [Cloudflares Wireguard VPN](https://1.1.1.1/)<br>
 gateway=Whether client over [Cloudflare Gateway](https://www.cloudflare.com/teams/gateway/)<br>
 
-#### Other Resource:
+#### Other Resources:
 [Convert Return Format to JSON](https://stackoverflow.com/a/68304489/2437224)
