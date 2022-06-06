@@ -23,3 +23,6 @@ gateway=Whether client over <a href="https://www.cloudflare.com/teams/gateway/">
 
 #### Other Resources:
 [Convert Return Format to JSON](https://stackoverflow.com/a/68304489/2437224)
+
+#### Other Useful Endpoint:
+https://cloudflare-quic.com/b/get
