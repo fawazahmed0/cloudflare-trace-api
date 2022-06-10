@@ -26,4 +26,5 @@ gateway=Whether client over <a href="https://www.cloudflare.com/teams/gateway/">
 
 #### Other Useful Endpoints by cloudflare:
 [Httpbin(with http/3 support)](https://cloudflare-quic.com/b)
+
 [DNS API](https://developers.cloudflare.com/1.1.1.1/encryption/dns-over-https/make-api-requests/dns-json)
