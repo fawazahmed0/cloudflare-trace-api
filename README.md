@@ -13,12 +13,14 @@ ts=<a href="https://en.wikipedia.org/wiki/Unix_time">Epoch Time</a> in seconds.m
 visit_scheme=https or http
 uag=<a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent">User Agent</a>
 colo=<a href="https://en.wikipedia.org/wiki/IATA_airport_code">IATA location identifier</a>
+sliver=Whether the request is splitted
 http=<a href="https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol">HTTP Version</a>
 loc=<a href="https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2">Country Code</a>
 tls=<a href="https://en.wikipedia.org/wiki/Transport_Layer_Security">TLS</a> or SSL Version
 sni=Whether <a href="https://en.wikipedia.org/wiki/Server_Name_Indication">SNI</a> encrypted or plaintext
 warp=Whether client over <a href="https://1.1.1.1/">Cloudflares Wireguard VPN</a>
 gateway=Whether client over <a href="https://www.cloudflare.com/teams/gateway/">Cloudflare Gateway</a>
+kex=<a href="https://en.wikipedia.org/wiki/Key_exchange">Key exchange</a> method for TLS
 </pre>
 
 #### Other Resources:
