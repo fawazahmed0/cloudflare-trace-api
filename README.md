@@ -27,6 +27,6 @@ kex=<a href="https://en.wikipedia.org/wiki/Key_exchange">Key exchange</a> method
 [Convert Return Format to JSON](https://stackoverflow.com/a/68304489/2437224)
 
 #### Other Useful Endpoints by cloudflare:
-[Httpbin(with http/3 support)](https://cloudflare-quic.com/b)
+
 
 [DNS Over HTTPS API](https://developers.cloudflare.com/1.1.1.1/encryption/dns-over-https/make-api-requests/dns-json)
