@@ -20,6 +20,7 @@ tls=<a href="https://en.wikipedia.org/wiki/Transport_Layer_Security">TLS</a> or 
 sni=Whether <a href="https://en.wikipedia.org/wiki/Server_Name_Indication">SNI</a> encrypted or plaintext
 warp=Whether client over <a href="https://1.1.1.1/">Cloudflares Wireguard VPN</a>
 gateway=Whether client over <a href="https://www.cloudflare.com/teams/gateway/">Cloudflare Gateway</a>
+rbi=Whether client over <a href="https://www.cloudflare.com/learning/access-management/what-is-browser-isolation/">Cloudflare Remote Browser Isolation</a>
 kex=<a href="https://en.wikipedia.org/wiki/Key_exchange">Key exchange</a> method for TLS
 </pre>
 
