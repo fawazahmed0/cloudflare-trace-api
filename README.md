@@ -2,9 +2,9 @@
 Get IP Address, TimeStamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version &amp; more by Cloudflare
 
 #### Endpoints:
-https://one.one.one.one/cdn-cgi/trace
-https://1.0.0.1/cdn-cgi/trace
-https://pages.dev/cdn-cgi/trace
+https://one.one.one.one/cdn-cgi/trace <br>
+https://1.0.0.1/cdn-cgi/trace <br>
+https://pages.dev/cdn-cgi/trace <br>
 
 #### Return Format:
 <pre>
