@@ -1,8 +1,10 @@
 # Cloudflare Trace API
 Get IP Address, TimeStamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version &amp; more by Cloudflare
 
-#### Endpoint:
-https://1.1.1.1/cdn-cgi/trace
+#### Endpoints:
+https://one.one.one.one/cdn-cgi/trace
+https://1.0.0.1/cdn-cgi/trace
+https://pages.dev/cdn-cgi/trace
 
 #### Return Format:
 <pre>
