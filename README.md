@@ -10,6 +10,7 @@ https://cloudflare-ipfs.com/cdn-cgi/trace <br>
 https://workers.dev/cdn-cgi/trace <br>
 https://pages.dev/cdn-cgi/trace <br>
 https://cloudflare.tv/cdn-cgi/trace <br>
+https://icanhazip.com/cdn-cgi/trace <br>
 
 #### Return Format:
 <pre>
