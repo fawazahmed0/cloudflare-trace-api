@@ -6,7 +6,6 @@ https://one.one.one.one/cdn-cgi/trace <br>
 https://1.0.0.1/cdn-cgi/trace <br>
 https://cloudflare-dns.com/cdn-cgi/trace <br>
 https://cloudflare-eth.com/cdn-cgi/trace <br>
-https://cloudflare-ipfs.com/cdn-cgi/trace <br>
 https://workers.dev/cdn-cgi/trace <br>
 https://pages.dev/cdn-cgi/trace <br>
 https://cloudflare.tv/cdn-cgi/trace <br>
