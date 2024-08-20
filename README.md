@@ -77,9 +77,10 @@ https://speed.cloudflare.com/__down
 #### Other Resources:
 [Convert Return Format to JSON](https://stackoverflow.com/a/68304489/2437224)
 
-[IATA List](https://cdn.jsdelivr.net/gh/fawazahmed0/iata-list@main/iata.json)
+[IATA Full List](https://cdn.jsdelivr.net/gh/fawazahmed0/iata-list@main/iata.json)
+
+[IATA Cloudflare List](https://speed.cloudflare.com/locations)
 
 #### Other Useful Endpoints by cloudflare:
-
 
 [DNS Over HTTPS API](https://developers.cloudflare.com/1.1.1.1/encryption/dns-over-https/make-api-requests/dns-json)
