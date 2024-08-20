@@ -33,6 +33,7 @@ kex=<a href="https://en.wikipedia.org/wiki/Key_exchange">Key exchange</a> method
 
 #### Other Resources:
 [Convert Return Format to JSON](https://stackoverflow.com/a/68304489/2437224)
+[IATA List](https://cdn.jsdelivr.net/gh/fawazahmed0/iata-list@main/iata.json)
 
 #### Other Useful Endpoints by cloudflare:
 
