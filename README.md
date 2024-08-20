@@ -31,6 +31,49 @@ rbi=Whether client over <a href="https://www.cloudflare.com/learning/access-mana
 kex=<a href="https://en.wikipedia.org/wiki/Key_exchange">Key exchange</a> method for TLS
 </pre>
 
+## Cloudflare Geolocation API
+
+#### Endpoint:
+https://speed.cloudflare.com/meta
+
+#### Return Format:
+```json
+{
+  "hostname": "speed.cloudflare.com",
+  "clientIp": "192.168.1.1",
+  "httpProtocol": "HTTP/1.1",
+  "asn": 13254,
+  "asOrganization": "My Organisation",
+  "colo": "IATA",
+  "country": "US",
+  "city": "New York City",
+  "region": "New York",
+  "postalCode": "10001",
+  "latitude": "40.730610",
+  "longitude": "-73.935242"
+}
+```
+
+#### Endpoint:
+https://speed.cloudflare.com/__down  
+
+#### Return Data In Headers:
+```json
+{
+  "cf-meta-asn": "13254",
+  "cf-meta-city": "New York City",
+  "cf-meta-colo": "IATA",
+  "cf-meta-country": "US",
+  "cf-meta-ip": "192.168.1.1",
+  "cf-meta-latitude": "40.730610",
+  "cf-meta-longitude": "-73.935242",
+  "cf-meta-postalcode": "10001",
+  "cf-meta-request-time": "1724183717263",
+  "cf-meta-timezone": "America/New_York"
+}
+
+```
+
 #### Other Resources:
 [Convert Return Format to JSON](https://stackoverflow.com/a/68304489/2437224)
 
