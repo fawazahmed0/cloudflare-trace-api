@@ -40,11 +40,11 @@ https://speed.cloudflare.com/meta
 ```json
 {
   "hostname": "speed.cloudflare.com",
-  "clientIp": "192.168.1.1",
+  "clientIp": "69.193.168.152",
   "httpProtocol": "HTTP/1.1",
   "asn": 13254,
   "asOrganization": "My Organisation",
-  "colo": "IATA",
+  "colo": "JFK",
   "country": "US",
   "city": "New York City",
   "region": "New York",
@@ -62,9 +62,9 @@ https://speed.cloudflare.com/__down
 {
   "cf-meta-asn": "13254",
   "cf-meta-city": "New York City",
-  "cf-meta-colo": "IATA",
+  "cf-meta-colo": "JFK",
   "cf-meta-country": "US",
-  "cf-meta-ip": "192.168.1.1",
+  "cf-meta-ip": "69.193.168.152",
   "cf-meta-latitude": "40.730610",
   "cf-meta-longitude": "-73.935242",
   "cf-meta-postalcode": "10001",
